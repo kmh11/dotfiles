@@ -1,0 +1,11 @@
+URxvt.font: xft:Source Code Pro:size=12
+URxvt*boldFont: xft:Source Code Pro:size=12
+URxvt*italicFont: xft:Source Code Pro:style=Oblique:size=12
+URxvt*boldItalicFont: xft:Source Code Pro:style=Bold Oblique:size=12
+URxvt*depth: 32
+URxvt*background: [47]#000000
+URxvt*foreground: white
+URxvt*scrollBar: false
+URxvt.color4: #00DDFF
+URxvt.color12: #00DDFF
+URxvt.color8: #555555

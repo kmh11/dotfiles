@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --bg-scale '/home/kmh/.config/i3/background.png' 
